@@ -78,11 +78,10 @@ por_time = estimativas_raw %>%
               .groups = "drop")
 ```
 
+## Descreva (e interprete) a distribuição de horas reais e a distribuição de erros dos diferentes tipos (subcategorias) de tarefas
+
 
 ## Qual a relação entre as estimativas e horas reais tomadas na empresa como um todo e como é essa relação em diferentes subcategorias de tarefa?
-
-
-## Há uma relação perceptível entre o tamanho da equipe está relacionado com o erro médio das estimativas da equipe? Como é essa relação?
 
 
 ## Qual a relação entre prioridade da tarefa e erro na sua estimativa?
